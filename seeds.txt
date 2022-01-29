@@ -1,0 +1,34 @@
+Random seeds for reproducibility of results from paper
+
+dataseed = k00
+
+MPVNN 
+algnpseed = k3000000
+algtfseed = k30000000
+
+PVNN 
+algnpseed = k3300000
+algtfseed = k33000000
+
+RaNN 
+algnpseed = k3330000
+algtfseed = k33300000
+
+ANN 
+algnpseed = k3333000
+algtfseed = k33330000
+
+CoxPH 
+algnpseed = k3333300
+
+
+BLCA  k=1
+BRCA  k=2
+COADREAD  k=3
+GBM   k=4
+HNSC  k=5
+KIRC  k=6
+LIHC  k=7
+LUNG  k=8
+OV    k=9
+STAD  k=10
