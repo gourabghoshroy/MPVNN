@@ -21,6 +21,15 @@ algtfseed = k33330000
 CoxPH 
 algnpseed = k3333300
 
+MP1NN 
+algnpseed = k3333330
+algtfseed = k33333300
+
+CoxPASNet1P 
+algnpseed = k6000000
+algtfseed = k60000000
+
+
 
 BLCA  k=1
 BRCA  k=2
